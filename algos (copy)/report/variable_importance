@@ -1,0 +1,13 @@
+Variable importance:
+
+Bagging Trees and random forest typically results in improved accuracy over the prediction using a single tree.However, it becomes difficult to interpret resulting ensembled trees.
+But one can obtain an overall summary of the importance of each predictor, called variable importance.A naive variable importance measure to use in tree-based ensemble methods would be to
+merely count the number of times each variable is selected by all individual trees in the
+ensemble.More elaborate variable importance measures incorporate a (weighted) mean of the individual trees’ improvement in the splitting criterion produced by each variable.A more advanced variable importance measure available in random forests is the “permutation accuracy importance” measure.
+Here in this study we use a formula based simplistic approach which is easy to incorporate in the algorithm but is tree based algorithm specific. We use the formula:
+
+log(subscript(10)e^(c/h^k))
+
+Here c and k are constants which can be set according to different requirements like height and range of score needed.
+
+**pic attached**

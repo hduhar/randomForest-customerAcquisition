@@ -1,0 +1,42 @@
+label 
+repeattrips 
+id
+ never_bought_company 
+ never_bought_category
+  never_bought_brand
+   has_bought_brand_company_category 
+   has_bought_brand_category 
+   has_bought_brand_company
+    offer_value total_spend_all
+     total_spend_ccb 
+     has_bought_company 
+     has_bought_company_q
+      has_bought_company_a
+       has_bought_company_30
+        has_bought_company_q_30 
+        has_bought_company_a_30
+         has_bought_company_60
+          has_bought_company_q_60
+           has_bought_company_a_60
+            has_bought_company_90 
+            has_bought_company_q_90
+             has_bought_company_a_90
+              has_bought_company_180
+               has_bought_company_q_180
+                has_bought_company_a_180 
+                has_bought_category
+                 has_bought_category_q
+                  has_bought_category_a
+                   has_bought_category_30
+                    has_bought_category_q_30
+                     has_bought_category_a_30
+                      has_bought_category_60 
+                      has_bought_category_q_60
+                       has_bought_category_a_60
+                        has_bought_category_90
+                         has_bought_category_q_90
+                          has_bought_category_a_90 
+                          has_bought_category_180
+                           has_bought_category_q_180 
+                           has_bought_category_a_180 has_bought_brand has_bought_brand_q has_bought_brand_a has_bought_brand_30 has_bought_brand_q_30 has_bought_brand_a_30 has_bought_brand_60 has_bought_brand_q_60 has_bought_brand_a_60 has_bought_brand_90 has_bought_brand_q_90 has_bought_brand_a_90 has_bought_brand_180 has_bought_brand_q_180 has_bought_brand_a_180 market chain offer_id_1190530 offer_id_1194044 offer_id_1197502 offer_id_1198271 offer_id_1198272 offer_id_1198273 offer_id_1198274 offer_id_1198275 offer_id_1199256 offer_id_1199258 offer_id_1200578 offer_id_1200579 offer_id_1200581 offer_id_1200582 offer_id_1200584 offer_id_1200988 offer_id_1203052 offer_id_1203439 offer_id_1204576 offer_id_1204821 offer_id_1204822 offer_id_1208251 offer_id_1208252 offer_id_1208329 offer_id_1208501 offer_id_1208503 offer_id_1213242 offer_id_1219900 offer_id_1219903 offer_id_1220502 offer_id_1220503 offer_id_1221658 offer_id_1221663 offer_id_1221665 offer_id_1221666 offer_id_1221667 offer_id_1230218
+1 5 86246 0 1 0 0 0 1 2.0 52828.12 4140.41 36.0 37.0 243.63 6.0 6.0 46.74 16.0 16.0 100.44 17.0 17.0 106.13 19.0 19.0 
