@@ -6,3 +6,4 @@ customers and preventing them from churning requires machine learning algorithms
 learn about custormers thinnking about product or service. In this project we use different machine learning algorithm to analyse the customer churn dataset of Acquire Valued Shoppers 
 Challenge. We first enginner new features from the data and then compare the performance of different algorithms on this dataset. We use naive bayes as our base prediction algorithm and then use decision trees,bagging trees and random forests to further increase the predictions on the dataset.
 
+![alt tag](https://github.com/hduhar/randomForest-customerAcquisition/blob/master/figure_2.png)
